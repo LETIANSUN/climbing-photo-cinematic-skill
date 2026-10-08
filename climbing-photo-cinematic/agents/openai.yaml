@@ -1,0 +1,4 @@
+interface:
+  display_name: "攀岩照片电影感"
+  short_description: "先确认线路颜色，再以人物照明、环境压暗和景深虚化突出攀爬者。"
+  default_prompt: "使用 $climbing-photo-cinematic 优化这张攀岩照片，先确认线路颜色，再突出人物、压暗并柔化外围环境。"

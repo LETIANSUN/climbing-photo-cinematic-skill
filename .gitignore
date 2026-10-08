@@ -1,0 +1,14 @@
+# Ignore working photographs and generated outputs; keep the README example.
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.heic
+*.mp4
+*.zip
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
+!docs/images/black-route-before-after.jpg
